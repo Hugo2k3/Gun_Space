@@ -7,7 +7,7 @@ using UnityEngine.UI;
 
 public class GameManager : MonoBehaviour
 {
-   public static GameManager Instance; 
+    public static GameManager Instance; 
     int score ;
     public TextMeshProUGUI text_Score_in_game;
 
